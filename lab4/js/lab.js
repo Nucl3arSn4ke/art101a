@@ -1,6 +1,9 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// insert game title
+/*
+implemention
+*/
+// Author: Wes Babb & Elijah Hynson
+// Date: 4/21/23
 
 // Constants
 
