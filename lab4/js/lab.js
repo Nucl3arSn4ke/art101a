@@ -1,6 +1,14 @@
-// insert game title
+// Rock Paper Scissors
 /*
-implemention
+Print the board each turn
+    loop though each round
+        register response from players
+        validate response
+        evaluate possible moves
+        test for win condition
+    print the winner of the round
+    print a new line at the end
+    print new board
 */
 // Author: Wes Babb & Elijah Hynson
 // Date: 4/21/23
